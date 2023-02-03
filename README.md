@@ -2,17 +2,17 @@
 Berisi progres belajarku di Dicoding
 --
 
-**Kelas-kelas yang selesai sebelum repo ini dibuat:**
-Belajar Dasar Pemrograman Web **14 Oktober 2022**
-Belajar Membuat Front-End Web untuk Pemula **23 Oktober 2022**
-Belajar Dasar-Dasar DevOps **27 Oktober 2022**
-Belajar Jaringan Komputer untuk Pemula **10 November 2022**
-Belajar Membuat Augmented Reality dengan Lens Studio **18 November 2022**
-Memulai Pemrograman Dengan Kotlin **21 Desember 2022**
-Belajar Membuat Aplikasi Back-End untuk Pemula **08 Januari 2023**
-Belajar Prinsip Pemrograman SOLID **27 Januari 2023**
-Belajar Dasar Pemrograman JavaScript **30 Januari 2023**
-Cloud Practitioner Essentials (Belajar Dasar AWS Cloud) **31 Januari 2023**
+**Kelas-kelas yang selesai sebelum repo ini dibuat:**  
+* Belajar Dasar Pemrograman Web **14 Oktober 2022**  
+* Belajar Membuat Front-End Web untuk Pemula **23 Oktober 2022**  
+* Belajar Dasar-Dasar DevOps **27 Oktober 2022**  
+* Belajar Jaringan Komputer untuk Pemula **10 November 2022**  
+* Belajar Membuat Augmented Reality dengan Lens Studio **18 November 2022**  
+* Memulai Pemrograman Dengan Kotlin **21 Desember 2022**  
+* Belajar Membuat Aplikasi Back-End untuk Pemula **08 Januari 2023**  
+* Belajar Prinsip Pemrograman SOLID **27 Januari 2023**  
+* Belajar Dasar Pemrograman JavaScript **30 Januari 2023**  
+* Cloud Practitioner Essentials (Belajar Dasar AWS Cloud) **31 Januari 2023**  
 
 **3 Februari 2023**  
 Memulai Pemrograman dengan C (62%)
