@@ -1,7 +1,8 @@
 # ProgresBelajar
 Berisi progres belajarku di Dicoding
+--
 
-3 Februari 2023
+**3 Februari 2023**  
 Memulai Pemrograman dengan C (62%)
 * Apa itu C
 * Program yang mengembalikan nilai dan tidak mengembalikan nilai
@@ -40,3 +41,4 @@ Belajar Dasar Git dengan Github (38%)
 * Cara Membuat Repository, README, dan Release File
 * Cara Membuat File di Github
 * Studi Kasus
+
