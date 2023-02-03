@@ -47,7 +47,7 @@ Belajar Membuat Aplikasi Android untuk Pemula (34%)
 * Membuat APK dan AAB
 * Membuat Activity
 
-Belajar Dasar Git dengan Github (38%)
+Belajar Dasar Git dengan Github (44%)
 * Apa itu Git dan Github
 * Perintah Dasar Git
 * Cara Membuat Repository, README, dan Release File
