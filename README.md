@@ -14,15 +14,19 @@ Berisi progres belajarku di Dicoding
 * Belajar Dasar Pemrograman JavaScript **(30 Januari 2023)**  
 * Cloud Practitioner Essentials (Belajar Dasar AWS Cloud) **(31 Januari 2023)**  
 
-**3 Februari 2023**  
-Memulai Pemrograman dengan C (62%)
+**4 Februari 2023**  
+Memulai Pemrograman dengan C (95%)
 * Apa itu C
 * Program yang mengembalikan nilai dan tidak mengembalikan nilai
 * Mengisi nilai riil dan char dengan inisialisasi dan assignment
 * Apa itu konstanta
 * Cara baca-tulis dalam C
 * Operasi: Aritmatika, Boolean, Perbandingan, Gabungan Boolean dan Relasional, Increment dan Decrement
-* Kondisional: IF
+* Kondisional: IF, IF ELSE, dan IF ELSE IF
+* Loop: for, while-do, do-while, forever
+* Array: Inisialisasi, baca-tulis, max-min, sort, search
+* Fungsi dan Prosedur
+* Latihan...
 
 Belajar Fundamental Front-End Web Development (29%)
 * Pendahuluan ECMAScript6
