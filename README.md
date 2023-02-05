@@ -2,7 +2,7 @@
 Berisi progres belajarku di Dicoding
 --
 
-**Kelas-kelas yang selesai sebelum repo ini dibuat:**  
+**Kelas-kelas yang selesai:**  
 * Belajar Dasar Pemrograman Web **(14 Oktober 2022)**  
 * Belajar Membuat Front-End Web untuk Pemula **(23 Oktober 2022)**  
 * Belajar Dasar-Dasar DevOps **(27 Oktober 2022)**  
@@ -13,21 +13,9 @@ Berisi progres belajarku di Dicoding
 * Belajar Prinsip Pemrograman SOLID **(27 Januari 2023)**  
 * Belajar Dasar Pemrograman JavaScript **(30 Januari 2023)**  
 * Cloud Practitioner Essentials (Belajar Dasar AWS Cloud) **(31 Januari 2023)**  
+* Memulai Pemrograman dengan C **(5 Februari 2023)**  
 
-**4 Februari 2023**  
-Memulai Pemrograman dengan C (95%)
-* Apa itu C
-* Program yang mengembalikan nilai dan tidak mengembalikan nilai
-* Mengisi nilai riil dan char dengan inisialisasi dan assignment
-* Apa itu konstanta
-* Cara baca-tulis dalam C
-* Operasi: Aritmatika, Boolean, Perbandingan, Gabungan Boolean dan Relasional, Increment dan Decrement
-* Kondisional: IF, IF ELSE, dan IF ELSE IF
-* Loop: for, while-do, do-while, forever
-* Array: Inisialisasi, baca-tulis, max-min, sort, search
-* Fungsi dan Prosedur
-* Latihan...
-
+**5 Februari 2023**  
 Belajar Fundamental Front-End Web Development (29%)
 * Pendahuluan ECMAScript6
 * Standar ES6: Deklarasi Variabel, Deklarasi Literals, Destructuring Object dan Array, Spreading Operator dan Rest Parameter, Arrow Function, Class daripada Prototype, ...
