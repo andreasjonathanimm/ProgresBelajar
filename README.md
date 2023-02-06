@@ -14,6 +14,7 @@ Berisi progres belajarku di Dicoding
 * Belajar Dasar Pemrograman JavaScript **(30 Januari 2023)**  
 * Cloud Practitioner Essentials (Belajar Dasar AWS Cloud) **(31 Januari 2023)**  
 * Memulai Pemrograman dengan C **(5 Februari 2023)**  
+* Belajar Dasar Visualisasi Data **(6 Februari 2023)**
 
 **5 Februari 2023**  
 Belajar Fundamental Front-End Web Development (29%)
@@ -26,12 +27,6 @@ Menjadi Linux System Administrator (40%)
 * User Management
 * Apa itu Filesystem
 * File Permission
-
-Belajar Dasar Visualisasi Data (57%)
-* Media dan Tools Visualisasi Data
-* Dasar Spreadsheet
-* Framework Google Sheets
-* Data Sort, Filter, Formula, Sum, Average, Count, Min, Max, Trim, Replace, Unique, Pivot Table, ...
 
 Belajar Membuat Aplikasi Android untuk Pemula (34%)
 * Apa itu Android Studio
