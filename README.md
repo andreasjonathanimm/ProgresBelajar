@@ -15,8 +15,9 @@ Berisi progres belajarku di Dicoding
 * Cloud Practitioner Essentials (Belajar Dasar AWS Cloud) **(31 Januari 2023)**  
 * Memulai Pemrograman dengan C **(5 Februari 2023)**  
 * Belajar Dasar Visualisasi Data **(6 Februari 2023)**
+* Belajar Dasar Git dengan Github **(8 Februari 2023)**
 
-**5 Februari 2023**  
+**8 Februari 2023**  
 Belajar Fundamental Front-End Web Development (29%)
 * Pendahuluan ECMAScript6
 * Standar ES6: Deklarasi Variabel, Deklarasi Literals, Destructuring Object dan Array, Spreading Operator dan Rest Parameter, Arrow Function, Class daripada Prototype, ...
@@ -33,11 +34,3 @@ Belajar Membuat Aplikasi Android untuk Pemula (34%)
 * Membuat Projek
 * Membuat APK dan AAB
 * Membuat Activity
-
-Belajar Dasar Git dengan Github (48%)
-* Apa itu Git dan Github
-* Perintah Dasar Git
-* Cara Membuat Repository, README, dan Release File
-* Cara Membuat File di Github
-* Studi Kasus
-
