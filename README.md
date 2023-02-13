@@ -17,19 +17,25 @@ Berisi progres belajarku di Dicoding
 * Belajar Dasar Visualisasi Data **(6 Februari 2023)**
 * Belajar Dasar Git dengan Github **(8 Februari 2023)**
 
-**8 Februari 2023**  
-Belajar Fundamental Front-End Web Development (29%)
+**13 Februari 2023**  
+Belajar Fundamental Front-End Web Development (29%) (trial is over)
 * Pendahuluan ECMAScript6
 * Standar ES6: Deklarasi Variabel, Deklarasi Literals, Destructuring Object dan Array, Spreading Operator dan Rest Parameter, Arrow Function, Class daripada Prototype, ...
 
-Menjadi Linux System Administrator (40%)
+Menjadi Linux System Administrator (98%) (trial is over)
 * Apa itu Sistem Operasi dan Linux
 * Apa itu Shell dan Terminal
 * User Management
 * Apa itu Filesystem
 * File Permission
+* File Archiving
+* Shell Scripting: Variable, Data Type, Control Flow, Function, I/O
+* Linux Services: Service Management, Network, Encryption & Decryption, Package Management, Automation, SSH Config
+* I/O & Network Interface Management
+* System Monitoring & Logging
+* VM & Container: KVM, Firecracker, Docker
 
-Belajar Membuat Aplikasi Android untuk Pemula (34%)
+Belajar Membuat Aplikasi Android untuk Pemula (34%) (trial is over)
 * Apa itu Android Studio
 * Membuat Projek
 * Membuat APK dan AAB
